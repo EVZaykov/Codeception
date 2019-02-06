@@ -6,9 +6,13 @@ You have two ways for run this test:
   - On your machine
 ### Docker
 Need install docker for your OS:
+
 https://www.docker.com/get-docker
+
 It be do next:
+
 Launch docker
+
 Clear output directory
 
 rm -rf tests/_output
